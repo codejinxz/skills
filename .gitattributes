@@ -1,0 +1,2 @@
+# 统一换行符，避免 Windows 提交产生 CRLF 噪音
+* text=auto eol=lf

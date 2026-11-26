@@ -1,0 +1,13 @@
+# 打包产物：由 skill 目录重新打包生成，不入库
+*.zip
+
+# 历史运行输出（评审 / 测试报告样例），不入库
+/test/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
